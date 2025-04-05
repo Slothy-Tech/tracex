@@ -1,5 +1,5 @@
 
-<h1 align="center">TraceX HWID Spoofer: Get around HWID/Hardware Bans For Free!🎮</h1>
+<h1 align="center">TraceX HWID Spoofer: Completely free Hardware ID Spoofer</h1>
 
 <p align="center"><strong>Unlock Your Favorite Games Instantly with the #1 Free HWID Spoofer Trusted by Over 50,000 Gamers</strong></p>
 
