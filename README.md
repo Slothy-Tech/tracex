@@ -4,8 +4,8 @@
 <p align="center"><strong>Unlock Your Favorite Games Instantly with the #1 Free HWID Spoofer Trusted by Over 50,000 Gamers</strong></p>
 
 <p align="center">
-  <a href="[https://sourceforge.net/projects/hwid-spoofer-free/](https://slothytech.com/tracex/)">
-    <img src="https://img.shields.io/badge/Free-Download-orange" alt="SourceForge">
+  <a href="[https://slothytech.com/tracex/](https://slothytech.com/tracex/)">
+    <img src="https://img.shields.io/badge/Free-Download-orange" alt="SlothyTech TraceX HWID Spoofer">
   </a>
 </p>
 
